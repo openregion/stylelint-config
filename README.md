@@ -12,8 +12,6 @@ Create `.stylelintrc.json` file with this content
 
 ```json
 {
-  "extends": [
-    "@openregion/stylelint-config"
-  ]
+  "extends": ["@openregion/stylelint-config"]
 }
 ```
