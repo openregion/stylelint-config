@@ -2,7 +2,7 @@
 Open Region Stylelint shared config
 
 ## Usage
-Install package
+Requires Node.js 22 or newer. Install package:
 
 ```shell
 npm install --save-dev @openregion/stylelint-config
