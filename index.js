@@ -1,9 +1,10 @@
 'use strict';
 
-module.exports = {
+/** @type {import('stylelint').Config} */
+export default {
   "extends": [
     "stylelint-config-sass-guidelines",
-    "stylelint-config-idiomatic-order"
+    "stylelint-config-clean-order"
   ],
   "rules": {
     "order/order": [
